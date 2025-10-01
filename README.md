@@ -1,9 +1,5 @@
 # SQLite-basico
-Ótima ideia em criar um README para o seu projeto! Ele é essencial para comunicar o objetivo, a estrutura e como usar o notebook.
 
-Aqui está uma sugestão de README para o seu repositório no GitHub, baseado no conteúdo do seu notebook Profissao_Cientista_de_Dados_M24_Pratique.ipynb:
-
-MÓDULO 24 - Bancos de Dados + SQL (Prática)
 Este repositório contém o material prático e os exercícios desenvolvidos durante o Módulo 24 do curso de Profissão Cientista de Dados, focado em Bancos de Dados e SQL (SQLite). O objetivo é aplicar conceitos de consulta, agregação e manipulação de dados utilizando a linguagem SQL e o ambiente Python/Pandas.
 
 🚀 Tecnologias Utilizadas
